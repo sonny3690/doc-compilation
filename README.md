@@ -5,8 +5,8 @@ A compilation of well-written documentation, generators, and tools.
 ## Generators
 Generators create documentation through traversing source code. [Some History](https://en.wikipedia.org/wiki/Comparison_of_documentation_generators)
 
--[TypeDoc](https://typedoc.org/): converts comments in TypeScript source code into rendered HTML documentation or a JSON model. CLI & Node module as well. [code](https://github.com/TypeStrong/typedoc)
--[Sphinx](https://github.com/sphinx-doc/sphinx): leading generator for Python. Primary output is HTML transformed from 
+- [TypeDoc](https://typedoc.org/): converts comments in TypeScript source code into rendered HTML documentation or a JSON model. CLI & Node module as well. [code](https://github.com/TypeStrong/typedoc)
+- [Sphinx](https://github.com/sphinx-doc/sphinx): leading generator for Python. Primary output is HTML transformed from 
 reStructuredText(config file).
 - [Natural Docs](https://github.com/NaturalDocs/NaturalDocs): generator for 21(!) languages. Written in C# & maintained since 2003 by a guy name Greg. [code](https://github.com/NaturalDocs/NaturalDocs)
 
