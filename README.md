@@ -7,6 +7,8 @@ Generators create documentation through traversing source code. [Some History](h
 
 - [Sphinx](https://github.com/sphinx-doc/sphinx): leading generator for Python. Primary output is HTML transformed from 
 reStructuredText(config file).
+- [Natural Docs](https://github.com/NaturalDocs/NaturalDocs): generator for 21(!) languages. Written in C# & maintained since 2003 by a guy name Greg. [code](https://github.com/NaturalDocs/NaturalDocs)
+
 
 
 ## Maintainers
